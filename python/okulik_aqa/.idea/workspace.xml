@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="81d4a22e-8f6c-4231-ba12-a09bec11e611" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../java/getting-started-java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/getting-started-java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autotests-api/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../autotests-api/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="38kykL2y5epzHqbcNtvHt80C1s4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,6 +35,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.run.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
